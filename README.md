@@ -24,7 +24,7 @@ Developer | Systems Engineer @ Infosys
 
 # 💫 About Me
 
-<img align="right" alt="Coding" width="350" height = "200"
+<img align="right" alt="Coding" width="350" height = "180"
 src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
 - 💼 Systems Engineer at **Infosys**
